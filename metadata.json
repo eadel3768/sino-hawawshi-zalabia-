@@ -1,0 +1,6 @@
+{
+  "name": "SINO Hawawshi & Zalabia | سينو",
+  "description": "الموقع الرسمي والمنيو الرقمي لطلب الحواوشي الإسكندراني والزلابيا لمطعم سينو بالإسكندرية - أصل الحادق وسر الحلو",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
